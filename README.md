@@ -2,6 +2,7 @@
 
 El repositorio con todas las cosas de aplicaciones web
 
-# Proyectos en el repo: 
+# cosas en el repo: 
 
-No hay nada en el repo excepto el .gitignore
+## /SESSIO2
+Las cosas de la sesion 2
