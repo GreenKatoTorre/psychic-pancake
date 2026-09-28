@@ -28,3 +28,5 @@ Es preferible usar estilos para evitar problemas de accesibilidad con el lector 
 `<ul> ... </ul>`
 `<ol> ... </ol>`
 `<li> ... </li>`
+### Enlaces
+`<a href="link">texto link</a>`
