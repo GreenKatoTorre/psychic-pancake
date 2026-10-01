@@ -30,5 +30,12 @@ Es preferible usar estilos para evitar problemas de accesibilidad con el lector 
 `<li> ... </li>`
 ### Enlaces
 `<a href="link">texto link</a>`
+`<a>` puede enlazar a sitios como otras paginas web, otros documentos en la misma web, o incluso otro tipo de documentos, como *.jpg, *.png, o cualquier documento que se pueda transferir
 ### Imagen
 `<img src="" alt="">`
+
+## secciones
+`<header> ... </header>`
+`<main> ... </main>`
+`<footer> ... </footer>`
+`<nav> ... </nav>`
