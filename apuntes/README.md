@@ -20,10 +20,12 @@
 `<p>Aquesta es la meva primera pagina web</p>`
 ### Importancia especial
 `<strong>pagina web</strong>`
-Es preferible usar estilos para evitar problemas de accesibilidad con el lector de pantalla
+> [!NOTE]
+> Es preferible usar estilos para evitar problemas de accesibilidad con el lector de pantalla
 ### Emfasis
 `<em>meva primera</em>`
-Es preferible usar estilos para evitar problemas de accesibilidad con el lector de pantalla
+> [!NOTE]
+> Es preferible usar estilos para evitar problemas de accesibilidad con el lector de pantalla
 ### Listas
 `<ul> ... </ul>`
 `<ol> ... </ol>`
@@ -39,3 +41,5 @@ Es preferible usar estilos para evitar problemas de accesibilidad con el lector 
 `<main> ... </main>`
 `<footer> ... </footer>`
 `<nav> ... </nav>`
+# CSS
+<!-- justify content flex-start/center/space-between -->
